@@ -1,0 +1,14 @@
+Quartz substrate of 500um thick
+(this data acquired under N2 purged environment)
+@ a humidity level 0.1%RH
+@ a room temperature around 26C
+
+Silicon substrate of 380um thick
+(this data acquired under ambient conditions)
+@ a humidity level 50%RH
+@ a room temperature around 26C
+
+Note 1: the time data is extracted in ps scale 
+
+Note 2: electro-optical parameters extracted by using the Teralyzer software are supplied also in excel format
+

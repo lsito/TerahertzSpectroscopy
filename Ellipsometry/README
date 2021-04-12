@@ -1,0 +1,3 @@
+The code is working but most of the files contain datas which were not well compensated during measurements.
+To test the extraction modify the file inserting QHI = -35, TETA = 60.
+If want to check other incidence angles, just change QHI, TETA accordingly.

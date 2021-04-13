@@ -3,7 +3,7 @@
 % folder
 %% Presetting
 clc;
-clear all;  %clear the memmory
+clear all;  %clear the memory
 close all;  %close the previous plots and or data matrixes
 
 
